@@ -1,0 +1,15 @@
+D:\NP\AttendanceSystem\TeacherClient\bin\Debug\net10.0\TeacherClient.exe
+D:\NP\AttendanceSystem\TeacherClient\bin\Debug\net10.0\TeacherClient.deps.json
+D:\NP\AttendanceSystem\TeacherClient\bin\Debug\net10.0\TeacherClient.runtimeconfig.json
+D:\NP\AttendanceSystem\TeacherClient\bin\Debug\net10.0\TeacherClient.dll
+D:\NP\AttendanceSystem\TeacherClient\bin\Debug\net10.0\TeacherClient.pdb
+D:\NP\AttendanceSystem\TeacherClient\obj\Debug\net10.0\TeacherClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\NP\AttendanceSystem\TeacherClient\obj\Debug\net10.0\TeacherClient.AssemblyInfoInputs.cache
+D:\NP\AttendanceSystem\TeacherClient\obj\Debug\net10.0\TeacherClient.AssemblyInfo.cs
+D:\NP\AttendanceSystem\TeacherClient\obj\Debug\net10.0\TeacherClient.csproj.CoreCompileInputs.cache
+D:\NP\AttendanceSystem\TeacherClient\obj\Debug\net10.0\TeacherClient.dll
+D:\NP\AttendanceSystem\TeacherClient\obj\Debug\net10.0\refint\TeacherClient.dll
+D:\NP\AttendanceSystem\TeacherClient\obj\Debug\net10.0\TeacherClient.pdb
+D:\NP\AttendanceSystem\TeacherClient\obj\Debug\net10.0\TeacherClient.genruntimeconfig.cache
+D:\NP\AttendanceSystem\TeacherClient\obj\Debug\net10.0\ref\TeacherClient.dll
+D:\NP\AttendanceSystem\TeacherClient\obj\Debug\net10.0\TeacherClient.sourcelink.json

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AttendanceServer/AttendanceServer.csproj" />
+  <Project Path="StudentClient/StudentClient.csproj" />
+  <Project Path="TeacherClient/TeacherClient.csproj" />
+</Solution>

@@ -1,0 +1,15 @@
+D:\NP\AttendanceSystem\AttendanceServer\bin\Debug\net10.0\AttendanceServer.exe
+D:\NP\AttendanceSystem\AttendanceServer\bin\Debug\net10.0\AttendanceServer.deps.json
+D:\NP\AttendanceSystem\AttendanceServer\bin\Debug\net10.0\AttendanceServer.runtimeconfig.json
+D:\NP\AttendanceSystem\AttendanceServer\bin\Debug\net10.0\AttendanceServer.dll
+D:\NP\AttendanceSystem\AttendanceServer\bin\Debug\net10.0\AttendanceServer.pdb
+D:\NP\AttendanceSystem\AttendanceServer\obj\Debug\net10.0\AttendanceServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\NP\AttendanceSystem\AttendanceServer\obj\Debug\net10.0\AttendanceServer.AssemblyInfoInputs.cache
+D:\NP\AttendanceSystem\AttendanceServer\obj\Debug\net10.0\AttendanceServer.AssemblyInfo.cs
+D:\NP\AttendanceSystem\AttendanceServer\obj\Debug\net10.0\AttendanceServer.csproj.CoreCompileInputs.cache
+D:\NP\AttendanceSystem\AttendanceServer\obj\Debug\net10.0\AttendanceServer.dll
+D:\NP\AttendanceSystem\AttendanceServer\obj\Debug\net10.0\refint\AttendanceServer.dll
+D:\NP\AttendanceSystem\AttendanceServer\obj\Debug\net10.0\AttendanceServer.pdb
+D:\NP\AttendanceSystem\AttendanceServer\obj\Debug\net10.0\AttendanceServer.genruntimeconfig.cache
+D:\NP\AttendanceSystem\AttendanceServer\obj\Debug\net10.0\ref\AttendanceServer.dll
+D:\NP\AttendanceSystem\AttendanceServer\obj\Debug\net10.0\AttendanceServer.sourcelink.json

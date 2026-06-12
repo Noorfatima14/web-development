@@ -1,0 +1,15 @@
+D:\NP\AttendanceSystem\StudentClient\bin\Debug\net10.0\StudentClient.exe
+D:\NP\AttendanceSystem\StudentClient\bin\Debug\net10.0\StudentClient.deps.json
+D:\NP\AttendanceSystem\StudentClient\bin\Debug\net10.0\StudentClient.runtimeconfig.json
+D:\NP\AttendanceSystem\StudentClient\bin\Debug\net10.0\StudentClient.dll
+D:\NP\AttendanceSystem\StudentClient\bin\Debug\net10.0\StudentClient.pdb
+D:\NP\AttendanceSystem\StudentClient\obj\Debug\net10.0\StudentClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\NP\AttendanceSystem\StudentClient\obj\Debug\net10.0\StudentClient.AssemblyInfoInputs.cache
+D:\NP\AttendanceSystem\StudentClient\obj\Debug\net10.0\StudentClient.AssemblyInfo.cs
+D:\NP\AttendanceSystem\StudentClient\obj\Debug\net10.0\StudentClient.csproj.CoreCompileInputs.cache
+D:\NP\AttendanceSystem\StudentClient\obj\Debug\net10.0\StudentClient.dll
+D:\NP\AttendanceSystem\StudentClient\obj\Debug\net10.0\refint\StudentClient.dll
+D:\NP\AttendanceSystem\StudentClient\obj\Debug\net10.0\StudentClient.pdb
+D:\NP\AttendanceSystem\StudentClient\obj\Debug\net10.0\StudentClient.genruntimeconfig.cache
+D:\NP\AttendanceSystem\StudentClient\obj\Debug\net10.0\ref\StudentClient.dll
+D:\NP\AttendanceSystem\StudentClient\obj\Debug\net10.0\StudentClient.sourcelink.json
